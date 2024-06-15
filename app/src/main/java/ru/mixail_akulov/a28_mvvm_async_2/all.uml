@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ru.mixail_akulov.a28_mvvm_async_2.MainActivity</OriginalElement>
+  <nodes>
+    <node x="3506.6509325902325" y="151.09026486624208">ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator</node>
+    <node x="545.9822762208078" y="847.0">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel</node>
+    <node x="2271.9013108280255" y="52.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.Navigator</node>
+    <node x="3634.1509325902334" y="-94.66469128152859">ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.Event</node>
+    <node x="2651.9337459474546" y="1036.665512356688">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.PendingResult</node>
+    <node x="971.6559640529174" y="842.8330035304823">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.TaskFactoryKt</node>
+    <node x="3178.042333514224" y="258.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.IntermediateNavigator</node>
+    <node x="1489.625" y="258.0">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorFragment</node>
+    <node x="1361.700770700637" y="85.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.views.HasScreenTitle</node>
+    <node x="672.335479299365" y="76.5">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter</node>
+    <node x="2160.4401511835777" y="1036.665512356688">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.SuccessResult</node>
+    <node x="966.518125000001" y="574.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseViewModel</node>
+    <node x="2771.9122383333333" y="280.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseFragment</node>
+    <node x="-50.18459617834401" y="1339.5">ru.mixail_akulov.a28_mvvm_async_2.foundation.views.ViewModelFactoryKt</node>
+    <node x="-675.9769019108126" y="146.7499999999999">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.TasksFactory</node>
+    <node x="947.1559640529174" y="904.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactoryKt</node>
+    <node x="3506.6509325902325" y="527.9449552713376">ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator.Animations</node>
+    <node x="84.68459617834401" y="847.0">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel.ViewState</node>
+    <node x="1016.315403821656" y="1189.5">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.ResultKt</node>
+    <node x="2485.0179791295163" y="574.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.uiactions.AndroidUiActions</node>
+    <node x="1936.1457129299356" y="1036.665512356688">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.FinalResult</node>
+    <node x="2160.3710003927836" y="620.0">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorFragment.Screen</node>
+    <node x="1775.3154038216562" y="1189.5">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.ColorsRepositoryKt</node>
+    <node x="2485.0179791295163" y="390.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.uiactions.UiActions</node>
+    <node x="-676.4769019108126" y="260.7499999999999">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory</node>
+    <node x="2002.6210003927836" y="266.83227312101906">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorFragment</node>
+    <node x="2206.315403821656" y="1189.5">ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseViewModelKt</node>
+    <node x="348.5728508492591" y="353.5">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.NamedColorListItem</node>
+    <node x="-480.47690191081256" y="250.7499999999999">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.Task</node>
+    <node x="-186.4271491507409" y="418.56357197452235">ru.mixail_akulov.a28_mvvm_async_2.foundation.BaseApplication</node>
+    <node x="672.335479299365" y="353.5">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter.Listener</node>
+    <node x="-41.67714915074089" y="651.5">ru.mixail_akulov.a28_mvvm_async_2.App</node>
+    <node x="-157.684596178344" y="1189.5">ru.mixail_akulov.a28_mvvm_async_2.foundation.views.ViewModelFactory</node>
+    <node x="1679.875" y="620.0">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorFragment.Screen</node>
+    <node x="1205.0571523885365" y="847.0">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorViewModel</node>
+    <node x="2418.4326434182585" y="1036.665512356688">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.ErrorResult</node>
+    <node x="317.315403821656" y="1317.5">ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.ViewModelCreatorKt</node>
+    <node x="3658.5333059763916" y="807.5451324331214">ru.mixail_akulov.a28_mvvm_async_2.MainActivity</node>
+    <node x="44.57285084925911" y="308.5">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.InMemoryColorsRepository</node>
+    <node x="204.35160467204128" y="49.499999999999886">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.NamedColor</node>
+    <node x="-713.1435685774791" y="398.7499999999999">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory.SimpleTask</node>
+    <node x="1924.7540476645418" y="669.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseScreen.Companion</node>
+    <node x="1993.3154038216562" y="1189.5">ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.ResourceActionsKt</node>
+    <node x="1679.875" y="1036.665512356688">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.Result</node>
+    <node x="995.1559640529174" y="959.5">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.TaskKt</node>
+    <node x="1926.7540476645418" y="578.3044127388534">ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseScreen</node>
+    <node x="672.335479299365" y="-89.27506242038217">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter.Holder</node>
+    <node x="203.5728508492591" y="587.0672356687899">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.InMemoryColorsRepository.Companion</node>
+    <node x="282.315403821656" y="1189.5">ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.ViewModelFactory</node>
+    <node x="577.315403821656" y="1189.5">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.ResultRendererKt</node>
+    <node x="3798.6925992568995" y="585.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.views.FragmentsHolder</node>
+    <node x="2755.9831200902336" y="574.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.ActivityScopeViewModel</node>
+    <node x="1117.018125000001" y="110.0">ru.mixail_akulov.a28_mvvm_async_2.foundation.model.Repository</node>
+    <node x="3379.8714197142262" y="-94.66469128152858">ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.ResourceActions</node>
+    <node x="1034.518125000001" y="257.5">ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.ColorsRepository</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.App" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory" relationship="TO_ONE">
+      <point x="-96.31770224539866" y="16.652294416630866" />
+      <point x="-32.49485139613955" y="708.676020382168" />
+      <point x="-741.5425966878913" y="708.676020382168" />
+      <point x="-741.5425966878913" y="279.63110498356366" />
+      <point x="-85.16803156593414" y="-20.118895016436227" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.PendingResult" relationship="CREATE">
+      <point x="140.30985404644252" y="96.70080247245119" />
+      <point x="1540.367006434979" y="1159.4466827809326" />
+      <point x="2682.5600613803445" y="1159.4466827809326" />
+      <point x="-54.873684567110104" y="27.89741918573054" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.TasksFactory" relationship="TO_ONE">
+      <point x="-167.6173543517491" y="104.5735111256015" />
+      <point x="-762.5520208060918" y="1078.5735111256015" />
+      <point x="-762.5520208060918" y="102.85757353958165" />
+      <point x="-588.4769019108126" y="102.85757353958165" />
+      <point x="-588.4769019108126" y="131.81781106009964" />
+      <point x="-586.7525668831171" y="131.81781106009964" />
+      <point x="1.7243350276954743" y="-20.358185221378108" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.IntermediateNavigator" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.ResourceActions" relationship="CREATE">
+      <point x="99.57570515073894" y="-8.118091984712805" />
+      <point x="3462.507763466385" y="321.8819080152872" />
+      <point x="-9.86365624784139" y="68.69422332561595" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.Navigator" relationship="TO_ONE">
+      <point x="0.0" y="-128.0" />
+      <point x="730.9822762208078" y="800.8908629397404" />
+      <point x="860.4262985319403" y="800.8908629397404" />
+      <point x="860.4262985319403" y="485.6845961783439" />
+      <point x="1491.7293656758893" y="485.6845961783439" />
+      <point x="1491.7293656758893" y="452.0666336233844" />
+      <point x="1971.1551934094346" y="452.0666336233844" />
+      <point x="1971.1551934094346" y="93.43627667051982" />
+      <point x="-88.23443350521711" y="3.436276670519817" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.ActivityScopeViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.Navigator" relationship="REALIZATION">
+      <point x="139.1142081747298" y="-102.26902298089203" />
+      <point x="3081.0973282649634" y="528.7369031745222" />
+      <point x="3162.348498990659" y="528.7369031745222" />
+      <point x="3162.348498990659" y="110.4815041222929" />
+      <point x="88.14512724585529" y="20.481504122292904" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorFragment.Screen" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorFragment" relationship="INNER_CLASS">
+      <point x="24.25" y="-27.0" />
+      <point x="0.0" y="51.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.Result" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.ErrorResult" relationship="CREATE">
+      <point x="40.7040872921948" y="-38.237631449467926" />
+      <point x="1821.0790872921948" y="960.5513014291572" />
+      <point x="2460.8082253344865" y="960.5513014291572" />
+      <point x="-43.62441808377207" y="-38.986728800805395" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.TasksFactory" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.Repository" relationship="INTERFACE_GENERALIZATION">
+      <point x="65.77859612242185" y="-23.626707648894126" />
+      <point x="-522.6983057883907" y="-96.94865133248409" />
+      <point x="1176.518125000001" y="-96.94865133248409" />
+      <point x="0.0" y="-14.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseViewModel" relationship="GENERALIZATION">
+      <point x="-130.0" y="-95.0" />
+      <point x="1270.0571523885365" y="771.0" />
+      <point x="1152.8317278184768" y="771.0" />
+      <point x="10.313602818475829" y="75.60088748840678" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.MainActivity" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorFragment.Screen" relationship="CREATE">
+      <point x="-154.93792670393987" y="-41.630752349948125" />
+      <point x="2221.0632464791925" y="881.9143800831732" />
+      <point x="12.192246086408886" y="31.697370674271838" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.MainActivity" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator" relationship="CREATE">
+      <point x="17.748482718446667" y="-113.62975564623707" />
+      <point x="3836.2817886948383" y="788.9406509494322" />
+      <point x="3742.1757408203766" y="788.9406509494322" />
+      <point x="3742.1757408203766" y="358.6823013503184" />
+      <point x="-26.082100590238042" y="103.09203648407635" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.ColorsRepository" relationship="TO_ONE">
+      <point x="21.348725258516197" y="-79.21373228554239" />
+      <point x="1421.4058776470526" y="821.109122773116" />
+      <point x="1340.3360418732136" y="821.109122773116" />
+      <point x="1340.3360418732136" y="546.8044127388534" />
+      <point x="1299.773169395635" y="546.8044127388534" />
+      <point x="123.25504439563406" y="77.49170649681423" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.ColorsRepository" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.Repository" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-83.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.IntermediateNavigator" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.ResourceActions" relationship="TO_ONE">
+      <point x="100.51207683991106" y="9.672970109554683" />
+      <point x="3481.235197249824" y="339.6729701095547" />
+      <point x="8.86377753559782" y="64.94873656892807" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.App" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory" relationship="CREATE">
+      <point x="-105.5" y="0.0" />
+      <point x="-728.2291250955377" y="690.0" />
+      <point x="-728.2291250955377" y="299.7499999999999" />
+      <point x="-88.0" y="0.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.NamedColorListItem" relationship="CREATE">
+      <point x="-312.3539566333938" y="-124.49751864991094" />
+      <point x="418.62831958741396" y="821.0971344398448" />
+      <point x="493.5728508492591" y="821.0971344398448" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.Result" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.PendingResult" relationship="CREATE">
+      <point x="20.478458806080198" y="-38.237631449467926" />
+      <point x="1800.8534588060802" y="940.3350186394914" />
+      <point x="2682.5410413304094" y="940.3350186394914" />
+      <point x="-54.89270461704518" y="-26.237631449467926" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.MainActivity" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.FragmentsHolder" relationship="REALIZATION">
+      <point x="106.66666666666669" y="-117.0" />
+      <point x="3925.199972643058" y="739.3609752662419" />
+      <point x="3923.0750609828037" y="739.3609752662419" />
+      <point x="-35.61753827409575" y="37.295043871595226" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter.Listener" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter" relationship="INNER_CLASS">
+      <point x="-8.216185751902117" y="-29.59915879731159" />
+      <point x="780.1283651072904" y="350.9008412026884" />
+      <point x="780.1283651072904" y="265.49999999999994" />
+      <point x="-51.70711419207464" y="83.88751280489106" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.MainActivity" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.uiactions.AndroidUiActions" relationship="CREATE">
+      <point x="-158.61989000523454" y="-61.26788995685183" />
+      <point x="2607.5179791295163" y="862.2772424762695" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel.ViewState" relationship="CREATE">
+      <point x="-470.3792670130551" y="-125.60690186334796" />
+      <point x="260.6030092077527" y="821.0971344398448" />
+      <point x="375.1806732098347" y="821.0971344398448" />
+      <point x="91.4960770314907" y="-71.99390805526116" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.Result" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.SuccessResult" relationship="CREATE">
+      <point x="60.9297157783094" y="-34.49214469278013" />
+      <point x="1841.3047157783094" y="982.0874006397557" />
+      <point x="2201.620541771684" y="982.0874006397557" />
+      <point x="-42.81960941189345" y="-40.484923503480786" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.MainActivity" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator" relationship="TO_ONE">
+      <point x="36.08159165614188" y="-110.45358287656563" />
+      <point x="3854.6148976325335" y="769.2160187718924" />
+      <point x="3759.873858858406" y="769.2160187718924" />
+      <point x="3759.873858858406" y="359.61867303949043" />
+      <point x="-8.291038495970497" y="104.02840817324835" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.Navigator" relationship="TO_ONE">
+      <point x="40.52561745275807" y="-88.03510269489368" />
+      <point x="1440.5827698412945" y="801.9322305788742" />
+      <point x="1520.3612489406285" y="801.9322305788742" />
+      <point x="1520.3612489406285" y="480.9819470267515" />
+      <point x="1987.2540476645418" y="480.9819470267515" />
+      <point x="1987.2540476645418" y="112.25461190543854" />
+      <point x="-80.60652711595958" y="22.254611905438537" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.Event" relationship="CREATE">
+      <point x="-87.23887653928159" y="-103.04277197452171" />
+      <point x="3604.412056050951" y="110.4815041222929" />
+      <point x="3682.24795271337" y="110.4815041222929" />
+      <point x="-9.402979876863355" y="35.834561059873295" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.IntermediateNavigator" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.Navigator" relationship="REALIZATION">
+      <point x="-7.17066741486633" y="-69.9186234700631" />
+      <point x="3268.3716660993578" y="90.0" />
+      <point x="2930.3414863082753" y="90.0" />
+      <point x="2930.3414863082753" y="89.72535741146567" />
+      <point x="90.01787062419908" y="-0.2746425885343342" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel.ViewState" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" relationship="INNER_CLASS">
+      <point x="160.18632608353573" y="73.45573780381847" />
+      <point x="443.87092226187974" y="1027.232602547686" />
+      <point x="-190.58385981853087" y="53.23260254768593" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator.Animations" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator" relationship="INNER_CLASS">
+      <point x="-3.028380885576553" y="-74.00056222675983" />
+      <point x="3601.122551704656" y="496.0" />
+      <point x="3600.8747031046796" y="496.0" />
+      <point x="-90.7762294855529" y="106.94867097857679" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator.Animations" relationship="TO_ONE">
+      <point x="-320.81069142933393" y="105.5435601435367" />
+      <point x="3481.235197249824" y="361.1338250097788" />
+      <point x="3481.235197249824" y="500.74160018385976" />
+      <point x="3561.9560048101857" y="500.74160018385976" />
+      <point x="-42.69492778004678" y="-65.9689344000002" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.InMemoryColorsRepository" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.TasksFactory" relationship="TO_ONE">
+      <point x="-46.41065316816463" y="-88.25199779400731" />
+      <point x="140.16219768109448" y="281.41255640866325" />
+      <point x="23.008229340145476" y="281.41255640866325" />
+      <point x="23.008229340145476" y="191.58372391133966" />
+      <point x="86.34447867108838" y="17.833723911339774" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.App" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.InMemoryColorsRepository" relationship="CREATE">
+      <point x="-3.685617596266809" y="-42.83225996146166" />
+      <point x="60.1372332529923" y="622.8248996312859" />
+      <point x="120.81411871133565" y="622.8248996312859" />
+      <point x="-65.75873213792346" y="112.07750885178802" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.NamedColorListItem" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.NamedColor" relationship="TO_ONE">
+      <point x="-13.915414704498005" y="-50.82037200010723" />
+      <point x="479.6574361447611" y="337.00179182552773" />
+      <point x="364.8516046720413" y="337.00179182552773" />
+      <point x="53.5" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorFragment" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter" relationship="CREATE">
+      <point x="-200.3009607714548" y="-71.82593434604155" />
+      <point x="1519.8240392285452" y="171.0" />
+      <point x="989.7912854626322" y="171.0" />
+      <point x="157.9558061632672" y="10.512409672520505" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter.Listener" relationship="REALIZATION">
+      <point x="-44.7032286973963" y="-125.74406346112119" />
+      <point x="686.2790475234115" y="758.3759590244849" />
+      <point x="781.2573465166554" y="758.3759590244849" />
+      <point x="-7.578132782709645" y="14.082414267515105" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.InMemoryColorsRepository" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.NamedColor" relationship="CREATE">
+      <point x="-28.330682841454802" y="-91.07788010529953" />
+      <point x="158.2421680078043" y="258.2085168536306" />
+      <point x="225.36129068765075" y="258.2085168536306" />
+      <point x="-85.99031398439053" y="61.430806876735176" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.ErrorResult" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.FinalResult" relationship="GENERALIZATION">
+      <point x="-62.70065032142611" y="-38.88606884422006" />
+      <point x="2441.7319930968324" y="999.9220327104409" />
+      <point x="2021.6381984667182" y="999.9220327104409" />
+      <point x="11.492485536782624" y="-25.53769361181253" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory.SimpleTask" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.ErrorResult" relationship="CREATE">
+      <point x="25.727081969570122" y="95.79740403679318" />
+      <point x="-500.41648660790895" y="640.5176448433375" />
+      <point x="-400.7158720322754" y="640.5176448433375" />
+      <point x="-400.7158720322754" y="1401.566243003673" />
+      <point x="2504.4326434182585" y="1401.566243003673" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory.SimpleTask" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory" relationship="INNER_CLASS">
+      <point x="15.0" y="-95.0" />
+      <point x="77.33333333333348" y="39.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorFragment.Screen" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorFragment" relationship="INNER_CLASS">
+      <point x="-40.25" y="-39.0" />
+      <point x="0.0" y="73.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.Navigator" relationship="REALIZATION">
+      <point x="-102.42211568482753" y="-102.26140635554654" />
+      <point x="3589.228816905405" y="70.06155193885422" />
+      <point x="90.01787062419862" y="-19.938448061145778" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.SuccessResult" relationship="CREATE">
+      <point x="160.24375406005197" y="95.98056634386558" />
+      <point x="1560.3009064485884" y="1063.8282154158042" />
+      <point x="1560.0361002737598" y="1063.8282154158042" />
+      <point x="1560.0361002737598" y="1138.9830764723574" />
+      <point x="2201.5181261181815" y="1138.9830764723574" />
+      <point x="-42.922025065396156" y="41.04964133116846" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorFragment" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.HasScreenTitle" relationship="REALIZATION">
+      <point x="-181.57352698801515" y="-67.14407590018169" />
+      <point x="1538.5514730119849" y="54.49999999999997" />
+      <point x="1491.7293656758893" y="54.49999999999997" />
+      <point x="55.02859497525242" y="-25.027423702204658" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseScreen.Companion" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseScreen" relationship="INNER_CLASS">
+      <point x="0.0" y="-14.5" />
+      <point x="1987.2540476645418" y="638.1522063694267" />
+      <point x="1986.7890777411117" y="638.1522063694267" />
+      <point x="-0.4649699234300897" y="16.03225599613802" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.MainActivity" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.ActivityScopeViewModel" relationship="CREATE">
+      <point x="-158.61989000523454" y="-81.15909492560809" />
+      <point x="2941.9831200902336" y="842.3860375075133" />
+      <point x="0.0" y="106.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.PendingResult" relationship="CREATE">
+      <point x="0.0" y="-72.0" />
+      <point x="1142.518125000001" y="524.0342863829856" />
+      <point x="2743.0005496098747" y="524.0342863829856" />
+      <point x="2743.0005496098747" y="949.0451661126122" />
+      <point x="2741.0833722702664" y="949.0451661126122" />
+      <point x="3.649626322811855" y="-24.34962556434357" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter.Listener" relationship="TO_ONE">
+      <point x="-29.369870164221766" y="85.85122656558141" />
+      <point x="802.4656091351433" y="276.5" />
+      <point x="866.5986992104049" y="276.5" />
+      <point x="77.76321991103987" y="-26.658025870071697" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.uiactions.UiActions" relationship="TO_ONE">
+      <point x="17.85591427143163" y="-126.27731648407848" />
+      <point x="748.8381904922394" y="821.0971344398448" />
+      <point x="881.3160570762891" y="821.0971344398448" />
+      <point x="881.3160570762891" y="498.75" />
+      <point x="1505.7749410134675" y="498.75" />
+      <point x="1505.7749410134675" y="468.78610594649695" />
+      <point x="2333.713474325479" y="468.78610594649695" />
+      <point x="2333.713474325479" y="411.8026509889896" />
+      <point x="-103.79472836466994" y="-16.197349011010374" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.PendingResult" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.Result" relationship="GENERALIZATION">
+      <point x="-36.914368184943214" y="-23.241242044117598" />
+      <point x="2700.5193777625113" y="920.9614883905234" />
+      <point x="1780.6278303199656" y="920.9614883905234" />
+      <point x="0.2528303199655966" y="-38.98672880080562" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.ViewModelFactoryKt" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.ViewModelFactory" relationship="CREATE">
+      <point x="39.73708896028191" y="-11.23524470450161" />
+      <point x="79.5524927819379" y="1320.1145038028603" />
+      <point x="0.39028180410753066" y="1320.1145038028603" />
+      <point x="-39.42512201754846" y="50.68311770183709" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorFragment.Screen" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseScreen" relationship="REALIZATION">
+      <point x="40.25" y="-39.0" />
+      <point x="1800.625" y="546.8044127388534" />
+      <point x="1941.1409578939779" y="546.8044127388534" />
+      <point x="-46.113089770563874" y="-19.08168234781101" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.ActivityScopeViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.uiactions.UiActions" relationship="REALIZATION">
+      <point x="-160.77460281308413" y="-108.05401660103598" />
+      <point x="2781.2085172771494" y="441.075134555312" />
+      <point x="2688.073455796382" y="441.075134555312" />
+      <point x="99.05547666686562" y="-2.608575760517624" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.Event" relationship="TO_ONE">
+      <point x="-67.77636318546502" y="-85.92172037949567" />
+      <point x="3623.8745694047675" y="124.34857854014066" />
+      <point x="3700.9753864968097" y="124.34857854014066" />
+      <point x="9.32445390657631" y="35.834561059873295" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.SuccessResult" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.FinalResult" relationship="GENERALIZATION">
+      <point x="-61.44638323874506" y="-39.934805136093246" />
+      <point x="2182.9937679448326" y="1019.5675423691825" />
+      <point x="2063.13819173082" y="1019.5675423691825" />
+      <point x="52.99247880088433" y="-27.934805136093246" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.InMemoryColorsRepository.Companion" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.InMemoryColorsRepository" relationship="INNER_CLASS">
+      <point x="14.487682244124812" y="-12.102750528870615" />
+      <point x="280.5605330933839" y="589.4644851399192" />
+      <point x="93.98768224412481" y="95.13643129023797" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.InMemoryColorsRepository" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.ColorsRepository" relationship="REALIZATION">
+      <point x="110.2805496357173" y="-97.36723099719677" />
+      <point x="296.8534004849764" y="281.41255640866325" />
+      <point x="1018.9832471744007" y="281.41255640866325" />
+      <point x="1018.9832471744007" y="280.5279114547697" />
+      <point x="-136.023132694055" y="-59.97208854523029" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.ActivityScopeViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.IntermediateNavigator" relationship="TO_ONE">
+      <point x="187.07144308028046" y="6.239923186353053" />
+      <point x="3267.8716660902587" y="685.239923186353" />
+      <point x="-7.670667423965369" y="74.32841643476115" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter.Holder" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter" relationship="INNER_CLASS">
+      <point x="47.25" y="39.0" />
+      <point x="814.085479299365" y="54.49999999999997" />
+      <point x="813.7997855928802" y="54.49999999999997" />
+      <point x="-18.035693706484835" y="-84.8547854237477" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.InMemoryColorsRepository" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.NamedColor" relationship="TO_ONE">
+      <point x="-5.691395090785704" y="-88.530329697134" />
+      <point x="180.8814557584734" y="281.41255640866325" />
+      <point x="268.56748449846947" y="281.41255640866325" />
+      <point x="268.56748449846947" y="243.58223751745317" />
+      <point x="269.09515985198584" y="243.58223751745317" />
+      <point x="-42.256444820055435" y="65.12897081655521" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory.SimpleTask" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.SuccessResult" relationship="CREATE">
+      <point x="44.04250022421655" y="95.57274674473774" />
+      <point x="-482.1010683532625" y="619.8514864340419" />
+      <point x="-380.3059151792157" y="619.8514864340419" />
+      <point x="-380.3059151792157" y="1380.2985220557393" />
+      <point x="2387.840595090961" y="1380.2985220557393" />
+      <point x="2387.840595090961" y="1075.165512356688" />
+      <point x="84.0" y="0.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.ViewModelCreatorKt" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.utils.ViewModelFactory" relationship="CREATE">
+      <point x="37.035333720694155" y="-9.136364218016752" />
+      <point x="444.35073754235015" y="1302.8909772489535" />
+      <point x="365.69551565190505" y="1302.8909772489535" />
+      <point x="-41.619888169750936" y="44.29956456669697" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.uiactions.UiActions" relationship="TO_ONE">
+      <point x="59.31897180311512" y="-87.26802700712403" />
+      <point x="1459.3761241916516" y="821.109122773116" />
+      <point x="1539.8666952331669" y="821.109122773116" />
+      <point x="1539.8666952331669" y="494.4161365605096" />
+      <point x="2354.9470166313013" y="494.4161365605096" />
+      <point x="2354.9470166313013" y="436.1483149074609" />
+      <point x="2387.840595090961" y="436.1483149074609" />
+      <point x="2387.840595090961" y="435.21194321828887" />
+      <point x="-107.54021512135796" y="7.211943218288866" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseViewModel" relationship="GENERALIZATION">
+      <point x="170.59737359886105" y="-122.18170449960087" />
+      <point x="901.5796498196688" y="771.0" />
+      <point x="1117.7177894745278" y="771.0" />
+      <point x="-24.8003355254732" y="74.13780672407563" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.ActivityScopeViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.uiactions.UiActions" relationship="TO_ONE">
+      <point x="-84.06703403611664" y="-97.8662926228451" />
+      <point x="2857.916086054117" y="554.2096647517441" />
+      <point x="2799.442364865087" y="554.2096647517441" />
+      <point x="2799.442364865087" y="421.1265131314492" />
+      <point x="100.50102234391397" y="-6.873486868550799" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.MainActivity" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.StackFragmentNavigator.Animations" relationship="CREATE">
+      <point x="-118.93122072872575" y="-112.72005182277258" />
+      <point x="3699.602085247666" y="849.797174053503" />
+      <point x="3698.6180709669493" y="849.797174053503" />
+      <point x="3698.6180709669493" y="778.9099377760817" />
+      <point x="3622.9592384818543" y="778.9099377760817" />
+      <point x="18.308305891621785" y="76.83864537149645" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorFragment.Screen" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseScreen" relationship="REALIZATION">
+      <point x="-24.25" y="-27.0" />
+      <point x="2184.6210003927836" y="546.8044127388534" />
+      <point x="2017.5040476645418" y="546.8044127388534" />
+      <point x="30.25" y="14.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorFragment" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseFragment" relationship="GENERALIZATION">
+      <point x="200.83237751240267" y="-49.43768204615418" />
+      <point x="2433.9533779051862" y="241.75022145222925" />
+      <point x="2960.7348158575264" y="241.75022145222925" />
+      <point x="4.322577524193093" y="-57.5750750573315" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.model.colors.ColorsRepository" relationship="TO_ONE">
+      <point x="-21.25716505797891" y="-123.60833176901053" />
+      <point x="709.7251111628289" y="781.2013724171462" />
+      <point x="840.0680502955666" y="781.2013724171462" />
+      <point x="840.0680502955666" y="461.3181415541401" />
+      <point x="1063.3393178797123" y="461.3181415541401" />
+      <point x="-113.17880712028864" y="85.45086585477543" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.TasksFactory" relationship="REALIZATION">
+      <point x="0.0" y="-39.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.PendingResult" relationship="CREATE">
+      <point x="146.8464275736601" y="129.71162004099892" />
+      <point x="877.8287037944679" y="1180.4221127698954" />
+      <point x="2700.538397812446" y="1180.4221127698954" />
+      <point x="-36.89534813500859" y="27.148321834392846" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ColorsAdapter.Holder" relationship="CREATE">
+      <point x="-32.33293971938474" y="-82.59523851250486" />
+      <point x="799.5025395799803" y="58.739591733521635" />
+      <point x="725.7808468107148" y="58.739591733521635" />
+      <point x="-41.05463248865021" y="42.58319666032915" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory.SimpleTask" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.Task" relationship="REALIZATION">
+      <point x="176.66666666666652" y="-95.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.MainActivity" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.navigator.IntermediateNavigator" relationship="CREATE">
+      <point x="-158.92672028034212" y="-101.71672335783535" />
+      <point x="3349.5433869044546" y="821.828409075286" />
+      <point x="74.00105339023048" y="72.85015708535036" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorFragment.Screen" relationship="CREATE">
+      <point x="159.55916075232108" y="-85.0840642038238" />
+      <point x="1559.6163131408575" y="737.5599082802546" />
+      <point x="1712.9471772427678" y="737.5599082802546" />
+      <point x="-47.42782275723221" y="39.08462878980731" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.simplemvvm.views.changecolor.ChangeColorFragment" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.views.BaseFragment" relationship="GENERALIZATION">
+      <point x="153.66666666666652" y="-73.0" />
+      <point x="1873.7916666666665" y="219.51139383439488" />
+      <point x="2977.04895762493" y="219.51139383439488" />
+      <point x="20.63671929159682" y="-64.2416920334154" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.uiactions.AndroidUiActions" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.uiactions.UiActions" relationship="REALIZATION">
+      <point x="34.623305671571416" y="-41.93142723402889" />
+      <point x="2642.1412848010877" y="524.0342863829856" />
+      <point x="2641.0179791295163" y="524.0342863829856" />
+      <point x="52.0" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.task.SimpleTasksFactory.SimpleTask" relationship="CREATE">
+      <point x="62.333333333333485" y="39.0" />
+      <point x="-526.1435685774791" y="381.3928273222948" />
+      <point x="-607.3231249936191" y="381.3928273222948" />
+      <point x="-81.17955641614003" y="-94.43275265222513" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.FinalResult" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.model.Result" relationship="GENERALIZATION">
+      <point x="-47.68620521888624" y="-26.736249373953115" />
+      <point x="1962.4595077110494" y="1019.5675423691825" />
+      <point x="1861.7808236912788" y="1019.5675423691825" />
+      <point x="81.40582369127878" y="-38.736249373953115" />
+    </edge>
+    <edge source="ru.mixail_akulov.a28_mvvm_async_2.App" target="ru.mixail_akulov.a28_mvvm_async_2.foundation.BaseApplication" relationship="REALIZATION">
+      <point x="-23.91124608238124" y="-36.83948115076123" />
+      <point x="39.91160476687787" y="622.8248996312859" />
+      <point x="-80.92714915074089" y="622.8248996312859" />
+      <point x="0.0" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.5467914140513613" showDependencies="true" x="1563.3146402564" y="468.3985904377581" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
